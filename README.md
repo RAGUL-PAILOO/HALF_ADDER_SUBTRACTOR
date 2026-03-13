@@ -73,7 +73,6 @@ FULL SUBRACTOR:
 <img width="1920" height="1017" alt="519615730-d9b5d0b1-7302-45de-aac6-b4ee96a399d4" src="https://github.com/user-attachments/assets/6e23282b-2139-44a2-9739-02cc71e9fdb1" />
 
 
-
 **Output Timing Waveform**
 FULL ADDER:
 <img width="1920" height="1017" alt="519614761-def6f871-2576-45d0-85fb-5e6484df5157" src="https://github.com/user-attachments/assets/b3261f0f-856e-454a-bd02-c494db63230e" />
