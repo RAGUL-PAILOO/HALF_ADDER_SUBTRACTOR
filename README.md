@@ -82,7 +82,6 @@ FULL SUBRACTOR
 <img width="1920" height="1017" alt="519614976-440968a7-a938-4e46-bbba-2c8cccdcbc52" src="https://github.com/user-attachments/assets/ab23aa6c-f905-4556-ae63-1a737104aa92" />
 
 
-
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
